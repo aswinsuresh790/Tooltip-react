@@ -1,4 +1,4 @@
-# This is a tooltip project 
+# Tooltip project 
 Mainly working by when we select different position(top,botton,left and right)
 to hover the div content. According to that a div is display at these position arount the hover button
 
